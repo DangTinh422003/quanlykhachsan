@@ -1,0 +1,17 @@
+D:\C_Sharp\quanlykhachsan\bin\Debug\net7.0-windows\quanlykhachsan.exe
+D:\C_Sharp\quanlykhachsan\bin\Debug\net7.0-windows\quanlykhachsan.deps.json
+D:\C_Sharp\quanlykhachsan\bin\Debug\net7.0-windows\quanlykhachsan.runtimeconfig.json
+D:\C_Sharp\quanlykhachsan\bin\Debug\net7.0-windows\quanlykhachsan.dll
+D:\C_Sharp\quanlykhachsan\bin\Debug\net7.0-windows\quanlykhachsan.pdb
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.Properties.Resources.resources
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.csproj.GenerateResource.cache
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.AssemblyInfoInputs.cache
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.AssemblyInfo.cs
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.dll
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\refint\quanlykhachsan.dll
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.pdb
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.genruntimeconfig.cache
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\ref\quanlykhachsan.dll
+D:\C_Sharp\quanlykhachsan\obj\Debug\net7.0-windows\quanlykhachsan.LoginForm.resources
