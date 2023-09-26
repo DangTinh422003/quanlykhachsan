@@ -5,6 +5,10 @@ namespace quanlykhachsan
         public Form1()
         {
             InitializeComponent();
+
+            Form2 form = new Form2();
+            form.Show();
+
         }
     }
 }
